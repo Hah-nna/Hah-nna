@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect) -->
-![header](https://capsule-render.vercel.app/api?section=footer&type=rounded&color=timeGradient&height=150&fontSize=45&text=Jeong%20Hana%20|%20Front-end&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?section=footer&type=rounded&color=timeGradient&height=120&fontSize=40&text=Jeong%20Hana%20|%20Front-end&fontAlign=50&animation=twinkling)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHah-nna%2FHah-nna&count_bg=%23D3CCCC&title_bg=%23D3CCCC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
