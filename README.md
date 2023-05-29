@@ -12,11 +12,11 @@
 
   <h2>About Me</h2>
   
-  - I want to develop things that are helpful in daily life
-  - I enjoy learning new things
-  - I have an inquisitive mind
-  <!-- - Lately, I'm interested in dart&flutter, TensorFlow.js (as of May 28th, 2023) -->
+  - I want to develop things that are helpful in daily life🔥
+  - I enjoy learning new things ✍️
+  - I'm quite a curious person 🔍
   - I live with lovely two cats 🐈🐈‍⬛
+  <!-- - Lately, I'm interested in dart&flutter, TensorFlow.js (as of May 28th, 2023) -->
   <br>
   If you have any questions, feel free to ask anytime!
 
