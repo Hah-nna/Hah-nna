@@ -1,8 +1,8 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect) -->
+
 ![header](https://capsule-render.vercel.app/api?section=footer&type=rounded&color=timeGradient&height=120&fontSize=40&text=Jeong%20Hana%20|%20Front-end&fontAlign=50&animation=twinkling)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHah-nna%2FHah-nna&count_bg=%23D3CCCC&title_bg=%23D3CCCC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 <div align="left">
   <h2>Hello! There😄</h2>
@@ -14,13 +14,12 @@
   
   - I want to develop things that are helpful in daily life
   - I enjoy learning new things
-  - I'm quite curious by nature
-  - Lately, I'm interested in dart&flutter, TensorFlow.js (as of May 28th, 2023)
+  - I have an inquisitive mind
+  <!-- - Lately, I'm interested in dart&flutter, TensorFlow.js (as of May 28th, 2023) -->
   - I live with lovely two cats 🐈🐈‍⬛
   <br>
   If you have any questions, feel free to ask anytime!
 
-  
   <br>
   <br>
   
