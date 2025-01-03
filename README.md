@@ -21,7 +21,6 @@
 
   <br>
   <br>
-  #7F52FF
   <h2>Tech stack</h2>
 <!--   https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러} -->
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff"/>
