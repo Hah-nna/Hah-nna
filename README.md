@@ -1,35 +1,36 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect) -->
 
-![header](https://capsule-render.vercel.app/api?section=footer&type=rounded&color=timeGradient&height=120&fontSize=40&text=Jeong%20Hana%20|%20Front-end&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?section=footer&type=rounded&color=timeGradient&height=120&fontSize=40&text=Jeong%20Hana%20|%20AndroidDeveloper&fontAlign=50&animation=twinkling)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHah-nna%2FHah-nna&count_bg=%23D3CCCC&title_bg=%23D3CCCC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="left">
-  <h2>Hello! There😄</h2>
-  <p>I'm Hana, currently studying front-end development</p>  
+  <h2>안녕하세요!😄</h2>
+  <p>안드로이드를 공부하고 있는 정하나입니다</p>  
   
   <br>
 
   <h2>About Me</h2>
   
-  - I want to develop things that are helpful in daily life🔥
-  - I enjoy learning new things ✍️
-  - I'm quite a curious person 🔍
-  - I live with lovely two cats 🐈🐈‍⬛
-  <!-- - Lately, I'm interested in dart&flutter, TensorFlow.js (as of May 28th, 2023) -->
+  - 새로운 걸 배우기 좋아합니다 ✍️
+  - 호기심이 많은 편입니다 🔍
+  - 실생활과 연관된 재미있는 프로젝트를 많이 해보고 싶습니다! 
+  - 사랑스러운 고양이들과 함께 살고 있습니다 🐈🐈‍⬛
   <br>
-  If you have any questions, feel free to ask anytime!
+  궁금하신 점이 있다면 언제든지 문의주세요!
 
   <br>
   <br>
-  
+  #7F52FF
   <h2>Tech stack</h2>
+<!--   https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러} -->
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=fff"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=fff"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff"/>
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff"/>
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff"/>
   <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff"/>
   <br>
@@ -40,8 +41,8 @@
   <a href="mailto:hj08hn@gmail.com">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
-  <a href="https://velog.io/@j_hana01" target="_blank">
-  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=fff" />
+  <a href="https://developer-hh.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/vlog-ff7f00?style=for-the-badge&logo=velog&logoColor=fff" />
   </a>
 
 </div>
