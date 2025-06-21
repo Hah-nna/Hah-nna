@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?section=footer&type=rounded&color=timeGradient&height=120&fontSize=40&text=Jeong%20Hana%20|%20AndroidDeveloper&fontAlign=50&animation=twinkling)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHah-nna%2FHah-nna&count_bg=%23D3CCCC&title_bg=%23D3CCCC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <div align="left">
   <h2>안녕하세요!😄</h2>
   <p>안드로이드 개발자 정하나입니다</p>  
@@ -22,9 +20,23 @@
   <br>
   <br>
   <h2>Tech stack</h2>
-<!--   https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러} -->
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=fff"/>
+
+  <h3>Android(Native)</h3>
+   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff"/>
+   <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/fusedlocation-F04E23?style=for-the-badge&logo=fusedlocation&logoColor=F04E23"/>
+  
+     
+<img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=fff"/>
+<img src="https://img.shields.io/badge/xml-005FAD?style=for-the-badge&logo=xml&logoColor=fff"/>
+<img src="https://img.shields.io/badge/material3-757575?style=for-the-badge&logo=materialdesign&logoColor=fff"/>
+
+   
+  <h3>Cross Platform</h3>
+  <h3>Web</h3>
+<!-- https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러} -->
+<!-- logo : https://simpleicons.org/ -->
+ 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=fff"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/>
