@@ -1,6 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect) -->
 
-![header](https://capsule-render.vercel.app/api?section=footer&type=rounded&color=timeGradient&height=120&fontSize=40&text=Jeong%20Hana%20|%20AndroidDeveloper&fontAlign=50&animation=twinkling)
 
 <div align="left">
   <h2>안녕하세요!😄</h2>
